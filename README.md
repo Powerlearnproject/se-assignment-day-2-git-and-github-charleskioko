@@ -7,7 +7,7 @@ Version control is a system that manages changes to files over time. It iss esse
 
   Commits: A commit represents a snapshot of the project at a particular point in time. Each commit includes a unique identifier, a message describing the changes, and metadata like the author and date.
 
-   Branches: Branches allow developers to work on different features or fixes independently from the main project. The main branch is cslled "master"
+   Branches: Branches allow developers to work on different features or fixes independently from the main project. The main branch is cslled "master" 
 
   Merges: Merging combines changes from different branches into one. This process integrates new features or fixes into the main codebase, allowing different lines of development to converge.
 
